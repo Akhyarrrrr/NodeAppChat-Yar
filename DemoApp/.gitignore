@@ -1,0 +1,8 @@
+# Dependencies and AdonisJS build
+node_modules
+
+
+# Editors specific
+.fleet
+.idea
+.vscode
