@@ -1,6 +1,6 @@
 https://docs.github.com/en/actions/publishing-packages/publishing-nodejs-packages
 
-name: npm-publish
+name: Npm-publish
 
 on:
   release:
