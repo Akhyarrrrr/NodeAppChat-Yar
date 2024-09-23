@@ -14,7 +14,7 @@ mongoose.Promise = Promise;
 
 // URL untuk koneksi MongoDB
 var dbUrl =
-  "mongodb+srv://Yarr:3do8mLsw68XirBtV@yar.rk8lh8p.mongodb.net/?retryWrites=true&w=majority&appName=Yar";
+  "mongodb+srv://Yarr:Yarr1503@yar.rk8lh8p.mongodb.net/?retryWrites=true&w=majority&appName=Yar";
 
 // Mendefinisikan model Message untuk koleksi 'messages' dalam MongoDB
 var Message = mongoose.model("Message", {
